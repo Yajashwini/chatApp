@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Java Build Files
+target/
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
