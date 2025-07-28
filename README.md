@@ -70,6 +70,7 @@ node server.js
 Create a .env file inside backend/:
 
 MONGODB_URI=your_mongo_connection_string
+
 HUGGINGFACE_API_TOKEN=your_huggingface_api_token
 
 ### ✨ How to Use
