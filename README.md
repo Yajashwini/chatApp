@@ -61,7 +61,7 @@ chatApp/
 - Run the server and access JSP frontend via `localhost:8080`
 
 ### 2. Realtime Server (Node.js + Socket.IO)
-```bash
+
 cd backend
 npm install
 node server.js
@@ -78,7 +78,7 @@ HUGGINGFACE_API_TOKEN=your_huggingface_api_token
 - Send and receive messages in real-time
 - Use the "Summarize Chat" button to get AI-generated conversation summaries (for chats over 50 words)
 
-###📌 Future Enhancements
+### 📌 Future Enhancements
 - Media support (images, files)
 - Message reactions
 - Message edit/delete
