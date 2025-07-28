@@ -12,7 +12,7 @@ dotenv.config();
 import { connectDB } from './config/db.js';
 import messageRoutes from './routes/messages.js';
 import groupRoutes from './routes/groups.js';
-import summarizeRoute from './routes/summarize.js';
+import summarizeRoute from './routes/summarize.js'; 
 import { socketHandler } from './sockets/messageHandler.js';
 
 const app = express();
